@@ -8,7 +8,7 @@ The original document (AFAIK) can be found [here](https://docs.google.com/docume
 
 ## Getting Started
 
-Simply download or click here to view the compiled PDF version of this manual. I recommend downloading, which will allow you to use the table of contents properly.
+Simply download or click [here](https://github.com/FollowExpensiveLemons/elsewhere/blob/master/main.pdf) to view the compiled PDF version of this manual. I recommend downloading, which will allow you to use the table of contents properly.
 
 ## Contributing
 
